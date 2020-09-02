@@ -6,5 +6,4 @@
 执行该指令后，会在`site-packages`中安装相应的模块。
 ## 4. 使用模块
 在`test.py`中使用刚才编译好的模块。
----
 https://www.cnblogs.com/jermmyhsu/p/10962987.html
